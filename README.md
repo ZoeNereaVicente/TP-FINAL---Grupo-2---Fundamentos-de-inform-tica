@@ -37,7 +37,7 @@ El proyecto está organizado en varios módulos:
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/ZoeNereaVicente/TP-FINAL---Grupo-2---Fundamentos-de-inform-tica.git
 ```
 
 2. Navega al directorio del proyecto:
